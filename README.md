@@ -518,21 +518,6 @@ This project demonstrates:
 
 ---
 
-# Authors
-
-**Group 4 — Department of ECE**  
-**College of Engineering Munnar**
-
-- Adwaith B — 3204
-- Gaayathri E B — 3210
-- Muhammed Midlaj C K — 3216
-- Sreeram Biju — 3222
-
-### Project Guide
-
-**Dr. Biju V.G**  
-Head of Department, ECE
-
 ---
 
 ## License
